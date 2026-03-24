@@ -1,0 +1,155 @@
+🔷 1. BASIC FORMULA (MUST REMEMBER)
+
+👉 Product Formula:
+
+Number1
+×
+Number2
+=
+HCF
+×
+LCM
+Number1×Number2=HCF×LCM
+
+👉 இது தான் MOST IMPORTANT ⭐
+
+🔷 2. NUMBER REPRESENTATION
+
+If HCF = x
+👉 Numbers can be written as:
+
+First = x × a
+Second = x × b
+
+👉 Where a and b are co-prime (common factor = 1)
+
+🔷 3. TYPES OF QUESTIONS (VERY IMPORTANT)
+🔹 Type 1: HCF + LCM given → Find numbers
+👉 Formula:
+
+Numbers =
+
+HCF × a
+HCF × b
+
+(where LCM = HCF × a × b)
+
+🔥 Example:
+
+HCF = 6, LCM = 180
+
+180
+=
+6
+×
+𝑎
+×
+𝑏
+→
+𝑎
+×
+𝑏
+=
+30
+180=6×a×b→a×b=30
+
+Take co-prime → 5 & 6 ❌ (not coprime)
+👉 3 & 10 ✅
+
+Numbers:
+👉 6×3 = 18
+👉 6×10 = 60
+
+🔹 Type 2: HCF + Product given
+👉 Formula:
+𝐿
+𝐶
+𝑀
+=
+Product
+HCF
+LCM=
+HCF
+Product
+	​
+
+
+Then solve like Type 1
+
+🔹 Type 3: “Other factors of LCM given”
+
+👉 VERY COMMON QUESTION ⭐
+
+👉 Idea:
+
+If HCF = x
+LCM = x × a × b
+
+👉 Then numbers =
+
+x × a
+x × b
+🔹 Type 4: One number given, find other
+👉 Formula:
+Second number
+=
+HCF
+×
+LCM
+First number
+Second number=
+First number
+HCF×LCM
+	​
+
+🔹 Type 5: Find HCF or LCM
+👉 HCF:
+
+👉 Common factors (smallest common)
+
+👉 LCM:
+
+👉 Highest multiples (largest)
+
+🔷 4. VERY IMPORTANT RULE
+
+👉 a and b MUST be co-prime
+
+❌ Wrong:
+
+(2, 6) → common factor 2
+✅ Correct:
+(2, 9)
+🔷 5. FAST SOLVING METHOD (SHORTCUT)
+
+👉 Always follow this order:
+
+Check what is given:
+HCF? LCM? Product?
+Use formula:
+Product = HCF × LCM
+Assume:
+Numbers = x×a, x×b
+Find:
+a×b
+Choose:
+Co-prime pair
+Final:
+Multiply back
+🔷 6. COMMON QUESTION PATTERNS
+
+You will see questions like:
+
+✔ Find larger number
+✔ Find smaller number
+✔ Find both numbers
+✔ Find LCM / HCF
+✔ Find missing number
+✔ Ratio based questions
+
+🔥 FINAL SHORT NOTE (REVISION)
+
+👉 Numbers = x×a, x×b
+👉 LCM = x×a×b
+👉 Product = HCF × LCM
+👉 a & b must be co-prime
